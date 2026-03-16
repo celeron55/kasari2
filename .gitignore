@@ -1,5 +1,8 @@
-# The usual
+# Project specific
+/kasari2sw
+/sw
 
+# The usual
 .*
 !.gitignore
 !.cargo
